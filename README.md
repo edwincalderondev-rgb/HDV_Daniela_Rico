@@ -87,5 +87,5 @@ Para activarlo una sola vez: **Settings → Pages → Build and deployment → S
 ---
 
 **Daniela Carolina Rico Iglesias** · Valledupar, Cesar, Colombia · disponibilidad de traslado
-📧 danielaricoiglesias999@gmail.com · 📱 +57 310 612 6306
+📧 danielaricoiglesias999@gmail.com · 📱 +57 312 710 2603
 💼 [LinkedIn](https://www.linkedin.com/in/daniela-rico-iglesias) · 🔬 [ORCID](https://orcid.org/0009-0000-8832-6539)
