@@ -39,6 +39,12 @@ Hecho a mano: **HTML, CSS y JavaScript sin frameworks, sin compilación y sin de
 - **SEO:** Open Graph con imagen propia, datos estructurados JSON-LD (`ProfilePage` + `Person`
   con credenciales), `sitemap.xml`, `robots.txt` y manifiesto web.
 - **Hoja de impresión** dedicada y **tarjeta de contacto** `.vcf` con foto.
+- **Asistente «Respuestas con evidencia»:** una conversación guiada que responde sobre el perfil,
+  la experiencia, la certificación, las herramientas, la disponibilidad y el contacto. Funciona sin
+  servicios externos: todo sale de una base de respuestas en `assets/js/asistente.js`, y no guarda
+  ni envía lo que la persona escribe. Responde también en inglés.
+- **Cuatro versiones de la hoja de vida en PDF:** general (calidad y HSEQ), datos e indicadores,
+  operaciones y producción, y un résumé en inglés de una página.
 
 ## El certificado de SGS Academy
 
@@ -60,7 +66,9 @@ documentos. No hay que tocar el HTML.
 ├── 404.html                        «§ 10.2 No conformidad»
 ├── assets/
 │   ├── css/styles.css              Sistema de diseño y componentes
+│   ├── css/asistente.css           Estilos del asistente
 │   ├── js/main.js                  Tema, navegación, revelado, contadores, certificado
+│   ├── js/asistente.js             Asistente: base de respuestas e interfaz
 │   ├── fonts/                      Fraunces y Plus Jakarta Sans (SIL OFL 1.1)
 │   ├── img/                        Retrato, íconos e imagen para compartir
 │   └── docs/                       Hoja de vida en PDF, tarjeta .vcf y certificado
